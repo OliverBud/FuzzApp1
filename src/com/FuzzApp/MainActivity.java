@@ -59,6 +59,7 @@ public class MainActivity extends FragmentActivity {
     private ProgressBar mProgress;
      
     
+    
 	@SuppressLint("NewApi")
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
